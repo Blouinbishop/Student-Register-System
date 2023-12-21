@@ -1,9 +1,7 @@
-# Student-Register-System
-Simple implementation of a student system to keep track of students and ID.
 # Student System
-
+Simple implementation of a student system to keep track of students and ID.
 ## Overview
-The Student System is a simple implementation in Python to keep track of students and their IDs. This system provides basic functionalities for adding, updating, and retrieving student information.
+The Student System is a simple implementation in Java to keep track of students and their IDs. This system provides basic functionalities for adding, updating, and retrieving student information.
 
 ## Features
 - Add a new student with a unique ID.
@@ -15,7 +13,7 @@ The Student System is a simple implementation in Python to keep track of student
 To use the Student System, follow these steps:
 
 ### Prerequisites
-- Python installed on your machine.
+- Java IDE installed on your machine.
 
 ### Usage
 1. Clone the repository to your local machine:
