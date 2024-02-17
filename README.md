@@ -1,5 +1,5 @@
 # Student System
-Simple implementation of a student system to keep track of students and ID.
+ implementation of a student system to keep track of students and ID.
 ## Overview
 The Student System is a simple implementation in Java to keep track of students and their IDs. This system provides basic functionalities for adding, updating, and retrieving student information.
 
